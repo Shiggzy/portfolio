@@ -2,7 +2,8 @@
 
 Ближайшие шаги:
 
-* ~~Гит~~
-* ~~Докер~~ // (EPT не поддерживается процессором)
-* ~~Развертывание среды разработки~~
-* ~~Настройка окружения~~
+* Contreras M.C. - Go Design Patterns
+* Jain H. - Data Structures & Algorithms In Go
+* Sheehan L. - Learning Functional Programming in Go
+
+~~~~
