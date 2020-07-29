@@ -2,7 +2,7 @@
 
 Ближайшие шаги:
 
-
+* Выпонить задания с [golangs.org](https://golangs.org) // [реп](https://https://github.com/UnderAnder/golangs.org)
 * Contreras M.C. - Go Design Patterns
 * Jain H. - Data Structures & Algorithms In Go
 * Sheehan L. - Learning Functional Programming in Go
