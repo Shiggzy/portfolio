@@ -2,8 +2,15 @@
 
 Ближайшие шаги:
 
+* выполнить задания с [golangs.org](https://golangs.org) // TODO: добавить ссылку на реп
 * Contreras M.C. - Go Design Patterns
 * Jain H. - Data Structures & Algorithms In Go
 * Sheehan L. - Learning Functional Programming in Go
+* [Go programming language secure coding practices guide](https://checkmarx.gitbooks.io/go-scp/)
 
-~~~~
+````
+
+fmt.Printf("%-15v $%4v\n", "SpaceX", 94)
+fmt.Printf("%-15v $%4v\n", "Virgin Galactic", 100)
+
+````
