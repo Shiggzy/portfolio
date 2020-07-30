@@ -2,11 +2,11 @@
 
 Ближайшие шаги:
 
-* Выпонить задания с [golangs.org](https://golangs.org) // [реп](https://https://github.com/UnderAnder/golangs.org)
-* Contreras M.C. - Go Design Patterns
-* Jain H. - Data Structures & Algorithms In Go
-* Sheehan L. - Learning Functional Programming in Go
-* [Go programming language secure coding practices guide](https://checkmarx.gitbooks.io/go-scp/)
+* [ ] Выпонить задания с [golangs.org](https://golangs.org) // [реп](https://https://github.com/UnderAnder/golangs.org)
+* [ ] Contreras M.C. - Go Design Patterns
+* [ ] Jain H. - Data Structures & Algorithms In Go
+* [ ] Sheehan L. - Learning Functional Programming in Go
+* [ ] [Go programming language secure coding practices guide](https://checkmarx.gitbooks.io/go-scp/)
 
 ````
 
@@ -14,3 +14,24 @@ fmt.Printf("%-15v $%4v\n", "SpaceX", 94)
 fmt.Printf("%-15v $%4v\n", "Virgin Galactic", 100)
 
 ````
+
+Почему я устраиваюсь на джуниора в 29 лет: // Не читай это. Что ты делаешь так глубоко в коммитах?
+
+минусы:
+
+* раньше никогда даже не расматривал возможность работать в большом колликтиве из-за социофобии
+* боязнь отказа
+* популярность RoR
+* отсутствитвие вдохновляющих примеров
+* отсутствие высшего образования
+* условка за хранение
+
+плюсы:
+
+* страсть к программированнию
+* знание основ эвм
+* знания о широком круге инструментов
+* базовые знания широкого круга технологий
+* больше денег
+* возможность планирования
+* отсутствие других интересов в жизни
