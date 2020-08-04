@@ -3,7 +3,7 @@
 Ближайшие шаги:
 
 * [X] [https://www.youtube.com/watch?v=N2bXEUSAiTI](https://https://www.youtube.com/watch?v=N2bXEUSAiTI)
-* [ ] Выпонить задания с [golangs.org](https://golangs.org) // [реп](https://https://github.com/UnderAnder/golangs.org) 13/33
+* [ ] Выпонить задания с [golangs.org](https://golangs.org) // [реп](https://https://github.com/UnderAnder/golangs.org) 20/33
 * [ ] Contreras M.C. - Go Design Patterns
 * [ ] Jain H. - Data Structures & Algorithms In Go // 1/
 * [ ] Sheehan L. - Learning Functional Programming in Go
