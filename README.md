@@ -3,6 +3,7 @@
 #### Ближайшие шаги:
 
 * [X] ~~Выпонить задания с [golangs.org](https://golangs.org)~~// [реп](https://github.com/UnderAnder/golangs.org) 33/33
+* [ ] Заканчить старый код упражнений Донован - Язык Программирования Go //[реп](https://github.com/UnderAnder/donovangolang)
 * [ ] Contreras M.C. - Go Design Patterns
 * [ ] Jain H. - Data Structures & Algorithms In Go // 1/
 * [ ] Sheehan L. - Learning Functional Programming in Go
